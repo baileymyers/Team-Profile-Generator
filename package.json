@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "<!--\r *** Thanks for checking out this README Template. If you have a suggestion that would\r *** make this better, please fork the repo and create a pull request or simply open\r *** an issue with the tag \"enhancement\".\r *** Thanks again! Now go create something AMAZING! :D\r ***\r ***\r ***\r *** To avoid retyping too much info. Do a search and replace for the following:\r *** github_username, repo_name, twitter_handle, email\r -->",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baileymyers/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baileymyers/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/baileymyers/Team-Profile-Generator#readme"
+}
